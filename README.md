@@ -22,3 +22,7 @@ My book list is devoted to the field in which I am interested, including control
 | Title  | Author |
 | ------------- | ------------- | 
 | A Mathematical Introduction to Robotic Manipulation | Richard M. Murray, Zexiang Li, S. Shankar Sastry |
+## Signal Processing
+| Title  | Author |
+| ------------- | ------------- | 
+| Signals and Systems | A. V. Oppenheim and A. S. Willsky with S. H. Newab |
